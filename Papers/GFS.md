@@ -1,4 +1,4 @@
 
 
 
-Talks about gfs and impleme
+Talks about gfs and implementation
