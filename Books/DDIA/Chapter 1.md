@@ -1,1 +1,0 @@
-hello from gh, local, from local obsidian
