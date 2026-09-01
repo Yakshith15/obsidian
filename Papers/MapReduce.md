@@ -1,11 +1,11 @@
 ---
-title: "The Google File System"
+title: "MapReduce"
 date: 2026-09-01
-tags: [paper, distributed-systems, storage, replication]
+tags: [paper, distributed-systems, batch-processing]
 ---
 
-**Paper:** Ghemawat, Gobioff, and Leung (SOSP 2003)
-**Link:** https://pdos.csail.mit.edu/6.824/papers/gfs.pdf
+**Paper:** Dean and Ghemawat (OSDI 2004)
+**Link:** https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf
 **Read for:** MIT 6.824
 
 ## The problem it solves

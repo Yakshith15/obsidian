@@ -1,11 +1,11 @@
 ---
-title: "The Google File System"
+title: "The Design of a Practical System for Fault-Tolerant Virtual Machines"
 date: 2026-09-01
-tags: [paper, distributed-systems, storage, replication]
+tags: [paper, distributed-systems, replication]
 ---
 
-**Paper:** Ghemawat, Gobioff, and Leung (SOSP 2003)
-**Link:** https://pdos.csail.mit.edu/6.824/papers/gfs.pdf
+**Paper:** Scales, Nelson, and Venkitachalam (SIGOPS 2010)
+**Link:** https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf
 **Read for:** MIT 6.824
 
 ## The problem it solves

@@ -1,11 +1,11 @@
 ---
-title: "The Google File System"
+title: "In Search of an Understandable Consensus Algorithm (Raft)"
 date: 2026-09-01
-tags: [paper, distributed-systems, storage, replication]
+tags: [paper, distributed-systems, consensus]
 ---
 
-**Paper:** Ghemawat, Gobioff, and Leung (SOSP 2003)
-**Link:** https://pdos.csail.mit.edu/6.824/papers/gfs.pdf
+**Paper:** Ongaro and Ousterhout (ATC 2014)
+**Link:** https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf
 **Read for:** MIT 6.824
 
 ## The problem it solves
